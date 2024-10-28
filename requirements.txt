@@ -1,4 +1,4 @@
-python==3.9
+
 streamlit==1.26.0
 fastf1
 matplotlib==3.8.0
