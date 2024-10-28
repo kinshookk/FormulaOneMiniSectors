@@ -5,5 +5,5 @@ matplotlib==3.8.0
 pandas==2.1.1
 numpy==1.26.0
 pillow==9.0.1
-python3-distutils
+distutils
 setuptools
